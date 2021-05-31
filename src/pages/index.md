@@ -26,7 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - title: lorem-ipsum
+  - title: WELCOME TO RIVERVIEW
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
