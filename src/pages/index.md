@@ -26,6 +26,21 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+  - title: WELCOME TO RIVERVIEW
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: small
+    align: center
+    padding_top: large
+    padding_bottom: large
+    has_border: false
+    background_color: primary
+    background_image_opacity: 70
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
+    background_image: images/riverview12.jpg
   - type: grid_section
     title: Our trusted partners
     align: center
@@ -210,7 +225,6 @@ sections:
           pariatur ea Lorem. Proident occaecat labore in occaecat consequat
           tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
           pariatur aliquip do eu laboris tempor dolor id.”**
-
         image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
