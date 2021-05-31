@@ -5,8 +5,8 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Marketing Playbook",
-        "logo": "images/logo.svg",
+        "title": "Riverview Ranch",
+        "logo": "images/wonderful-olive.svg",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -21,6 +21,11 @@
                 "style": "link"
             },
             {
+                "label": "About Us",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
@@ -29,7 +34,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Start Learning",
+                "label": "Book Now",
                 "url": "/thank-you",
                 "style": "primary"
             }
@@ -42,7 +47,7 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/wonderful-olive.svg",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
@@ -117,8 +122,11 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=book&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": ""
     },
-    "title": "Stackbit Book Theme",
-    "domain": "https://theriverviewranch-44240.netlify.app"
+
+    "title": "Riverview Ranch ",
+    "domain": "https://riverviewranch.netlify.app/",
+    "favicon": "images/favicon-32x32.png"
+
 }

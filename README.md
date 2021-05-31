@@ -1,6 +1,6 @@
-# ✨ theriverviewranch ✨
+# ✨ pleasant-sun ✨
 
-<img src="https://themes.stackbit.com/images/book-demo-1024x768.png" width="600">
+<img src="https://riverviewranch.netlify.app/images/riverview12_tall.jpg" width="600">
 
 This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
@@ -9,18 +9,18 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A &quot;do it yourself&quot; Stackbit theme</a></li>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/agency-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Showcase of agency work</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/vanilla-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Stackbit Vanilla theme</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/event-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Virtual or IRL conference</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">An e-commerce theme powered by Snipcart</a></li>
                 </ul>
 </details>
 
 <details>
         <summary>✏️ &nbsp;<strong>CMS</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=sanity&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Sanity</a></li>
                 <li><a href="https://app.stackbit.com/create?cms=netlifycms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Netlify CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=forestry&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Forestry</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
                 </ul>
 </details>
 
@@ -57,7 +57,6 @@ To start editing your site, you can edit the included Markdown files.
 
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://stackbit.link/project-readme-lead-video)
 
 Here's a few resources to get you started:
 
@@ -71,4 +70,4 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 
 ## Colophon
 
-Generated at `2021-05-31T01:56:53.199Z` by Stackbit version `0.3.53`.
+Generated at `2021-05-29T13:35:49.690Z` by Stackbit version `0.3.53`.

@@ -49,13 +49,13 @@ export default class HeroSection extends React.Component {
                 			<div className={classNames('hero__media', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (media_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (media_width === 'sixty')})}>
                 				{_.get(section, 'video_embed_html', null) ? (
                 					htmlToReact(_.get(section, 'video_embed_html', null))
-                				) : 
+                				) :
                 					<img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
                 				}
                 			</div>
                 			)}
                 			{has_text && (
-                			<div className={classNames('hero__body', 'my-2', 'cell-12', {'cell-md-7': (is_horiz && has_media) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_media) && (media_width === 'fifty'), 'cell-md-5': (is_horiz && has_media) && (media_width === 'sixty'), 'order-md-first': has_media && (media_pos === 'right'), 'order-first': has_media && (media_pos === 'bottom'), 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
+                			<div className={classNames('hero__body', 'my-2', 'p-md-6','cell-12', {'cell-md-7': (is_horiz && has_media) && (media_width === 'fourty'), 'cell-md-6': (is_horiz && has_media) && (media_width === 'fifty'), 'cell-md-5': (is_horiz && has_media) && (media_width === 'sixty'), 'order-md-first': has_media && (media_pos === 'right'), 'order-first': has_media && (media_pos === 'bottom'), 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
                 				{_.get(section, 'title', null) && (
                 				<h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                 				)}

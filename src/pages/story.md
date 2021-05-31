@@ -1,8 +1,8 @@
 ---
-title: Story About the Book
+title: Create your story with Riverview
 seo:
-  title: Story About the Book
-  description: This is the about page
+  title: Create your story with Riverview
+  description: This is the story page
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/story.jpg
+      value: images/riverview12.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,16 +24,16 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/story.jpg
+      value: images/riverview12.jpg
       relativeUrl: true
 template: page
 ---
 
 In the past, whenever a young man or woman wanted to be great at something, they would look to learn it from a master. This is how apprenticeships started, nowadays known as internships. Even when universities, colleges and educational institutions mushroomed all over the world, people still seek the guidance of a mentor to help them achieve their full potential and teach them tricks of the trade along the way.
 
-## Digital Age Mentorship
+## A Place for Memories
 
-![](/images/story.jpg)
+![](/images/riverview12.jpg)
 
 Fast forward to the 2000s, and you'll find that less people are willing to dedicate their time to help young professionals grow, and fewer novices know to reach out and ask.
 
@@ -41,7 +41,7 @@ Fast forward to the 2000s, and you'll find that less people are willing to dedic
 
 This is why I decided to create a practical guide that would serve as an internship for those who want to excel in marketing. Instead of looking for a mentor, students and young marketers can read all the wealth of knowledge I acquired throught the years and digest it at their pace.
 
-## Hands On Practice
+## Everything and More
 
 There's nothing like trying things out for yourself.
 

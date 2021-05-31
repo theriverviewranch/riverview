@@ -2,25 +2,26 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: Pick Your Package
     subtitle: Select the best fit for your budget below
     align: center
     padding_top: large
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Student
+      - title: Bronze
         subtitle: For college students and educators
         title_align: left
         content: |-
           ---
 
 
-          ### $9 eBook
+          ### Weekday night
 
-          * Digital edition
-          * Basic tutorials and worksheets
-          * Access to community group
+          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+          - Aliquam tincidunt mauris eu risus.
+          - Vestibulum auctor dapibus neque.
+          - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Personal
@@ -28,19 +29,18 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Professional
+      - title: Silver
         subtitle: For marketers at companies
         title_align: left
         content: |-
           ---
 
-          ### $19 Print + eBook
+          ### Weekend Morning or Night
 
-          * Print + eBook editions
-          * Advanced tutorials
-          * Monthly webinars
-          * 1hr consultation
-          * eMail feedback session
+          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+          - Aliquam tincidunt mauris eu risus.
+          - Vestibulum auctor dapibus neque.
+          - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Professional
@@ -48,16 +48,19 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Gold
         subtitle: For teams and companies
         title_align: left
         content: >-
           ---
 
-          ### $49 eBook
+          ### Full Day
 
-          * 3 eBooks * Monthly webinars * Bonus chapter per vertical * Live Q&A
-          session * Advanced worksheets
+
+            - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+            - Aliquam tincidunt mauris eu risus.
+            - Vestibulum auctor dapibus neque.
+            - Nunc dignissim risus id metus.
         content_align: left
         actions:
           - label: Start with Business
