@@ -58,7 +58,6 @@ To start editing your site, you can edit the included Markdown files.
 Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
 
 
-
 Here's a few resources to get you started:
 
 - 📺 &nbsp; [Editing Content](https://stackbit.link/project-readme-editing-video)
