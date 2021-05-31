@@ -1,5 +1,21 @@
 ---
 sections:
+  - type: hero_feature_section
+    title: Riverview Ranch
+    subtitle: Welcome to
+    features: []
+    feature_padding_vert: small
+    align: center
+    padding_top: large
+    padding_bottom: large
+    has_border: false
+    background_color: primary
+    background_image_opacity: 70
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    background_image: images/riverview12.jpg
+
   - type: hero_section
     title: Welcome to Riverview Ranch
     subtitle: Eiusmod esse velit laboris cillum eiusmod occaecat enim mollit qui.
@@ -26,21 +42,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - title: WELCOME TO RIVERVIEW
-    subtitle: lorem-ipsum
-    features: []
-    feature_padding_vert: small
-    align: center
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: primary
-    background_image_opacity: 70
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-    background_image: images/riverview12.jpg
   - type: grid_section
     title: Our trusted partners
     align: center

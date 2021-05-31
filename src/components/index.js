@@ -18,6 +18,7 @@ import GridSection from './GridSection';
 import Header from './Header';
 import HeaderMenu from './HeaderMenu';
 import HeroSection from './HeroSection';
+import HeroFeatureSection from './HeroFeatureSection';
 import Icon from './Icon';
 import SectionActions from './SectionActions';
 import Layout from './Layout';
@@ -43,6 +44,7 @@ export {
     Header,
     HeaderMenu,
     HeroSection,
+    HeroFeatureSection,
     Icon,
     SectionActions,
     Layout
@@ -69,6 +71,7 @@ export default {
     Header,
     HeaderMenu,
     HeroSection,
+    HeroFeatureSection,
     Icon,
     SectionActions,
     Layout
