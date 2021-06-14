@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: lorem-ipsum
+  - title: Hello!
     content: |+
       ## Welcome to River View
 
