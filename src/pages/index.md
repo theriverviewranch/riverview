@@ -274,5 +274,4 @@ seo:
       value: images/ranch-preview.png
       relativeUrl: true
 template: advanced
-title: Grey bar inn
 ---
