@@ -17,7 +17,7 @@ sections:
     background_image: images/riverview12.jpg
   - type: hero_section
     title: Welcome to Riverview Ranch
-    subtitle: 60 acres of atmosphere all to yourself between Layton and Ogden.
+    subtitle: 60 private acres of ranch-style atmosphere located within a half hour.
     content: >
       27 min. north of the SLC airport and adjacent to Hwy. #84 is the private
       River View Ranch.  A perfect place for; family gatherings, weddings, life
