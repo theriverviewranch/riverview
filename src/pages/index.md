@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: Hello!
+  - title: Welccome to
     content: |+
       ## Welcome to River View
 
