@@ -1,9 +1,8 @@
 ---
 sections:
   - title: Welcome to
-    content: |+
-      ## Welcome to River View
-
+    content: |
+      # River View Ranch
     actions: []
     actions_position: bottom
     actions_width: fourty
