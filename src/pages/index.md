@@ -15,10 +15,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     background_image: images/riverview12.jpg
-
   - type: hero_section
     title: Welcome to Riverview Ranch
-    subtitle: Eiusmod esse velit laboris cillum eiusmod occaecat enim mollit qui.
+    subtitle: 60 acres all to yourself
     content: >-
       Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
       quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
