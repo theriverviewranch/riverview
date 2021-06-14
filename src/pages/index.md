@@ -18,14 +18,11 @@ sections:
   - type: hero_section
     title: Welcome to Riverview Ranch
     subtitle: 60 acres of atmosphere all to yourself between Layton and Ogden.
-    content: >-
-      Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
-      quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
-      officia dolor labore commodo sint. Aute cillum irure fugiat minim cillum
-      ullamco. Culpa est est nostrud exercitation anim ea adipisicing est
-      adipisicing. Laborum commodo deserunt cupidatat veniam dolore nostrud ad
-      veniam eu. Consectetur sit ex sint cupidatat. Est fugiat veniam consequat
-      consectetur ad ea exercitation exercitation fugiat anim tempor.
+    content: >
+      27 min. from SLC and adjacent to Hwy. #84 is the River View Ranch.  A
+      perfect place for; family gatherings, weddings, celebrations, or whatever
+      else you can create.  Plenty of guest parking and 4000+ sq. ft. of ranch
+      style admosphere.
     actions:
       - label: Book now
         url: /pricing
