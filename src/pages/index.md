@@ -22,10 +22,10 @@ sections:
       27 min. north of the SLC airport and adjacent to Hwy. #84 (between Layton
       & Ogden) is the private River View Ranch.  A perfect place for; family
       gatherings, weddings, life celebrations, or whatever else you can think of
-      to create.  Plenty of guest parking/RV and 4000+ sq. ft. of ranch-style
-      atmosphere await your unforgettable experience.  Have your meals catered
-      or use our well-equipped kitchen to feed your herd.  NOTE: please yield to
-      cows.
+      to create.  Plenty of guest / RV parking plus a 4000+ sq. ft. of
+      ranch-style atmosphere await your unforgettable experience.  Have your
+      meals catered or use our well-equipped kitchen to feed your herd.  NOTE:
+      please yield to cows.
     actions:
       - label: Book now
         url: /pricing
