@@ -1,20 +1,5 @@
 ---
 sections:
-  - type: hero_feature_section
-    title: Riverview Ranch
-    subtitle: Welcome to
-    features: []
-    feature_padding_vert: small
-    align: center
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: primary
-    background_image_opacity: 70
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    background_image: images/riverview12.jpg
   - type: hero_section
     title: Welcome to the RiverView Ranch
     subtitle: 60 private acres of ranch-style atmosphere located within a half hour.
