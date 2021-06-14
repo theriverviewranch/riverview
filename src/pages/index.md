@@ -274,5 +274,5 @@ seo:
       value: images/ranch-preview.png
       relativeUrl: true
 template: advanced
-title: Riverview Ranch
+title: River View Ranch
 ---
