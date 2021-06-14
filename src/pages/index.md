@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     background_image: images/riverview12.jpg
   - type: hero_section
-    title: Welcome to the River View Ranch
+    title: Welcome to the RiverView Ranch
     subtitle: 60 private acres of ranch-style atmosphere located within a half hour.
     content: >
       27 min. north of the SLC airport and adjacent to Hwy. #84 (between Layton
