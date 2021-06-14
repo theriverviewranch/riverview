@@ -1,32 +1,34 @@
 ---
 sections:
-  - type: hero_feature_section
-    title: Riverview Ranch
-    subtitle: Welcome to
-    features: []
-    feature_padding_vert: small
+  - content: |
+      #### Welcome to 
+
+      # River View Ranch
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
     align: center
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: medium
     has_border: false
     background_color: primary
-    background_image_opacity: 70
+    background_image_opacity: 50
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image: images/riverview12.jpg
-
+    type: cta_section
+    background_image: images/riverview1.jpg
   - type: hero_section
-    title: Welcome to Riverview Ranch
-    subtitle: Eiusmod esse velit laboris cillum eiusmod occaecat enim mollit qui.
-    content: >-
-      Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
-      quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
-      officia dolor labore commodo sint. Aute cillum irure fugiat minim cillum
-      ullamco. Culpa est est nostrud exercitation anim ea adipisicing est
-      adipisicing. Laborum commodo deserunt cupidatat veniam dolore nostrud ad
-      veniam eu. Consectetur sit ex sint cupidatat. Est fugiat veniam consequat
-      consectetur ad ea exercitation exercitation fugiat anim tempor.
+    title: Welcome to the RiverView Ranch
+    subtitle: 60 private acres of ranch-style atmosphere located within a half hour.
+    content: >
+      27 min. north of the SLC airport and adjacent to Hwy. #84 (between Layton
+      & Ogden) is the private River View Ranch.  A perfect place for; family
+      gatherings, weddings, life celebrations, or whatever else you can think of
+      to create.  Plenty of guest / RV parking plus a 4000+ sq. ft. of
+      ranch-style atmosphere await your unforgettable experience.  Have your
+      meals catered or use our well-equipped kitchen to feed your herd.  NOTE:
+      please yield to cows.
     actions:
       - label: Book now
         url: /pricing
@@ -42,6 +44,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image_size: auto
   - type: grid_section
     title: Our trusted partners
     align: center
@@ -275,5 +278,5 @@ seo:
       value: images/ranch-preview.png
       relativeUrl: true
 template: advanced
-title: Riverview Ranch
+title: River View Ranch
 ---
