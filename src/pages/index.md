@@ -1,7 +1,6 @@
 ---
 sections:
-  - title: Welcome to
-    content: |
+  - content: |
       # River View Ranch
     actions: []
     actions_position: bottom
