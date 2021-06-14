@@ -41,6 +41,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image_size: contain
   - type: grid_section
     title: Our trusted partners
     align: center
