@@ -17,7 +17,7 @@ sections:
     background_image: images/riverview12.jpg
   - type: hero_section
     title: Welcome to Riverview Ranch
-    subtitle: 60 acres all to yourself
+    subtitle: 60 acres of atmosphere all to yourself between Layton and Ogden.
     content: >-
       Consequat nulla cillum sit ea commodo ad quis voluptate Lorem in dolor
       quis duis. Amet qui reprehenderit occaecat exercitation in ea consequat
