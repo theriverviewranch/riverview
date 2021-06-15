@@ -20,15 +20,15 @@ sections:
     background_image: images/riverview1.jpg
   - type: hero_section
     title: Welcome to the RiverView Ranch
-    subtitle: 60 private acres of ranch-style atmosphere located within a half hour.
+    subtitle: "60 private acres of ranch-style atmosphere with stunning views and\_ close to town."
     content: >
       27 min. north of the SLC airport and adjacent to Hwy. #84 (between Layton
       & Ogden) is the private River View Ranch.  A perfect place for; family
-      gatherings, weddings, life celebrations, or whatever else you can think of
-      to create.  Plenty of guest / RV parking plus a 4000+ sq. ft. of
-      ranch-style atmosphere await your unforgettable experience.  Have your
+      gatherings, meetings, weddings, life celebrations, or whatever else you
+      can think of to create.  Plenty of guest / RV parking plus a 4000+ sq. ft.
+      of ranch-style atmosphere await your unforgettable experience.  Have your
       meals catered or use our well-equipped kitchen to feed your herd.  NOTE:
-      please yield to cows.
+      please yield to wildlife and livestock.
     actions:
       - label: Book now
         url: /pricing
@@ -52,6 +52,30 @@ sections:
       - image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
@@ -76,7 +100,7 @@ sections:
   - type: features_section
     features:
       - title: What's at Riverview.
-        subtitle: Sint ea incididunt elit cupidatat esse labore ullamco.
+        subtitle: 'Atmosphere, Views, and Calm....'
         content: |-
           - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
           - Aliquam tincidunt mauris eu risus.
