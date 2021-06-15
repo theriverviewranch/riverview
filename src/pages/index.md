@@ -100,7 +100,7 @@ sections:
   - type: features_section
     features:
       - title: What's at Riverview.
-        subtitle: Sint ea incididunt elit cupidatat esse labore ullamco.
+        subtitle: 'Atmosphere, Views, and Calm....'
         content: |-
           - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
           - Aliquam tincidunt mauris eu risus.
