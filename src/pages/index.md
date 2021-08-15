@@ -76,8 +76,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
         image_alt: Logo 3
