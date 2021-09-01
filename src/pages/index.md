@@ -46,7 +46,7 @@ sections:
     background_color: none
     background_image_size: auto
   - type: grid_section
-    title: Our trusted partners
+    title: Featuring
     align: center
     grid_items:
       - image: images/logo-1.svg
