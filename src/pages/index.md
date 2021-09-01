@@ -96,7 +96,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Dutch Oven Deluxe
+      - title: Divine Dutch Oven
         subtitle: Superb dutch oven meals
         title_align: left
         content: >
