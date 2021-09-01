@@ -52,7 +52,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
-      - title: lorem-ipsum
+      - title: Deserts
         subtitle: Brenda's Bomb Brownies
         title_align: left
         content: >-
