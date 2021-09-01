@@ -55,17 +55,15 @@ sections:
       - title: Deserts
         subtitle: Brenda's Bomb Brownies
         title_align: left
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Want something typical but not at all average?!  Try one one of our
+          Brenda's Bomb Brownies.  Dare you to eat just one.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Made in-house from scratch.
         content_align: left
         actions: []
         actions_align: left
