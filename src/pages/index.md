@@ -56,7 +56,7 @@ sections:
         subtitle: Brenda's Bomb Brownies
         title_align: left
         content: >
-          ## Lorem ipsum
+          ## Did someone say homemade brownies?
 
 
           Want something typical but not at all average?!  Try one one of our
