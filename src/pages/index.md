@@ -53,7 +53,7 @@ sections:
         image_alt: Logo 1
         image_align: center
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Brenda's Bomb Brownies
         title_align: left
         content: >-
           ## Lorem ipsum
