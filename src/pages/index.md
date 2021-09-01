@@ -49,7 +49,7 @@ sections:
     title: Featuring
     align: center
     grid_items:
-      - image: images/favicon-32x32.png
+      - image: images/rvr-color.svg
         image_alt: Logo 1
         image_align: center
       - title: Deserts
