@@ -77,17 +77,15 @@ sections:
       - title: Deserts
         subtitle: Caveman Cookies
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## A cookie that makes you feel even better after you eat it?!
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Chocolate chip, whole oat, whole wheat, mini cookies that even a
+          caveman would approve.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Made in-house daily from scratch. 
         content_align: left
         actions: []
         actions_align: left
