@@ -100,7 +100,7 @@ sections:
         subtitle: Superb dutch oven meals
         title_align: left
         content: >
-          ## Dutch oven deluxe
+          ## Master Chef Kevins Devine Dutch Oven
 
 
           Order our dutch oven meals from our region renown master in-house chef
