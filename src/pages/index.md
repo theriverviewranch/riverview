@@ -100,16 +100,16 @@ sections:
         subtitle: Superb dutch oven meals
         title_align: left
         content: >
-          ## Lorem ipsum
+          ## Dutch oven deluxe
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Order our dutch oven meals from our region renown master in-house chef
+          who makes dutch over look so simple but taste out of this world.
 
 
-          *   Lorem ipsum
+          *   Cooked in-house daily
 
-          *   dolor sit amet
+          *   Daily specials
         content_align: left
         actions: []
         actions_align: left
