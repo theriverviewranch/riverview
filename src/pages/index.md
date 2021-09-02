@@ -100,11 +100,11 @@ sections:
         subtitle: Superb dutch oven meals
         title_align: left
         content: >
-          ## Master Chef Kevins Devine Dutch Oven
+          ## Master Chef Kevans Majestic Grill
 
 
-          Order our dutch oven meals from our region renown master in-house chef
-          who makes dutch over look so simple but taste out of this world.
+          Order our dutch oven meals from our region renowned master in-house
+          chef who makes dutch over look so simple but taste out of this world.
 
 
           *   Cooked in-house daily
