@@ -17,7 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: images/riverview11.jpg
+    background_image: images/riverview8.jpg
   - type: hero_section
     title: Welcome to the RiverView Ranch
     subtitle: "60 private acres of ranch-style atmosphere with stunning views and\_ close to town."
