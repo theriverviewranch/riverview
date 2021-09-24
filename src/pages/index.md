@@ -235,7 +235,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/riverview2_tall.jpg
+        image: images/riverview7.jpg
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
