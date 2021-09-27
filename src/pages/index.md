@@ -235,7 +235,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/riverview7.jpg
+        image: images/Screen Shot 2021-08-16 at 6.51.38 PM.png
         image_alt: Look inside Marketing Playbook
         media_position: right
         media_width: fifty
