@@ -118,7 +118,7 @@ sections:
       - image: images/RiverView Ranch - Sign Banner.jpg
         image_alt: Logo 3
         image_align: center
-      - image: images/riverview12.jpg
+      - image: images/917AA28D-0340-4885-8F83-EE84CDD6931E_1_100_o.jpeg
         image_alt: Logo 4
         image_align: center
       - image: images/riverview7.jpg
