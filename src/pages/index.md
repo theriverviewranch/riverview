@@ -179,18 +179,15 @@ sections:
 
 
 
-      - content: >+
-          ### Retreats
+      - content: >
+          ### Retreats/ Work Meeting
 
 
-          Bring together your workforce, clients, employees, create a retreat
-          that you imagine for the ultimate rest and relaxation, throw in some
-          awesome meals created by you or catered by our staff!
-
-
-
-
-
+          Bring together your workforce, clients, employees, board members,
+          create a retreat that you imagine for the ultimate rest and
+          relaxation; enjoy views from east to west through our enchanting
+          all-windowed rooms.  Throw in some awesome meals created by you or
+          catered by our staff!
       - content: >+
           ### Parties
 
