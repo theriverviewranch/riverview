@@ -310,7 +310,7 @@ sections:
   - type: features_section
     features:
       - title: Learn about us
-        subtitle: What we can do for you
+        subtitle: Authentic Ranch - Outdoor Nature - Indoor Charm
         content: >-
           **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
           amet culpa esse pariatur ea Lorem. Proident occaecat labore in
