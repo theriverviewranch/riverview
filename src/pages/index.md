@@ -179,13 +179,18 @@ sections:
 
 
 
-      - content: >-
-          ### Church Events
+      - content: >+
+          ### Retreats
 
 
-          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
-          in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
-          fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
+          Bring together your workforce, clients, employees, create a retreat
+          that you imagine for the ultimate rest and relaxation, throw in some
+          awesome meals created by you or catered by our staff!
+
+
+
+
+
       - content: >+
           ### Parties
 
