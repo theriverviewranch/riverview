@@ -311,18 +311,12 @@ sections:
     features:
       - title: Learn about us
         subtitle: Authentic Ranch - Outdoor Nature - Indoor Charm
-        content: >-
-          **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
-          amet culpa esse pariatur ea Lorem. Proident occaecat labore in
-          occaecat consequat tempor deserunt labore exercitation eu aliquip
-          occaecat nisi. Ut pariatur aliquip do eu laboris tempor dolor id.
+        content: >+
+          RiverView Ranch is set up on a thriving ranch that was also once a
+          popular golf-driving range and gorgeous manicured 18 hole putting
+          course. The beauty of nature can be seen from sunrise to sundown.
 
 
-
-          > **Aliquip velit et do sunt enim Lorem nostrud amet culpa esse
-          pariatur ea Lorem. Proident occaecat labore in occaecat consequat
-          tempor deserunt labore exercitation eu aliquip occaecat nisi. Ut
-          pariatur aliquip do eu laboris tempor dolor id.”**
         image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
