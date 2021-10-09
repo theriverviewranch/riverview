@@ -147,13 +147,7 @@ sections:
     features:
       - title: What's at Riverview.
         subtitle: 'Atmosphere, Views, and Calm....'
-        content: |-
-          - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-          - Aliquam tincidunt mauris eu risus.
-          - Vestibulum auctor dapibus neque.
-          - Nunc dignissim risus id metus.
-          - Cras ornare tristique elit.
-          - Vivamus vestibulum ntulla nec ante.
+        content: "\_Authentic Ranch - Outdoor Nature - Indoor charm\n\n\n*   Weddings\n\n\n*   Retreats\n\n\n*   Parties\n\n\n*   Gatherings\n\n\n*   Memorials\n\n\n*   Get Aways\n\n\n*   Reunions\n\n\n*   Site Seeing\n\n\n*   Views of Winding Weber river\n\n\n*   Ponds\n\n\n*   Trails\n"
         actions:
           - label: Book Now
             url: /thank-you
