@@ -121,7 +121,7 @@ sections:
       - image: images/917AA28D-0340-4885-8F83-EE84CDD6931E_1_100_o.jpeg
         image_alt: Logo 4
         image_align: center
-      - image: images/riverview7.jpg
+      - image: images/4AD60834-F562-4329-80D6-A0CF025A7CD0_1_100_o.jpeg
         image_alt: Logo 5
         image_align: center
       - image: images/A76BA37D-FE49-49D7-B182-4F6BB810FA6C_1_100_o.jpeg
