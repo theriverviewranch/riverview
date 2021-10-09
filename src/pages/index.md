@@ -264,12 +264,24 @@ sections:
           popular Catering services, or customize their own. When you celebrate
           your special occasion with us, we’ll accommodate all of your Catering
           needs, with the entire River View Ranch team here to serve you.
-      - content: |-
-          #### Designers
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
-            - Vivamus vestibulum ntulla nec ante.
+      - content: >+
+          Musicians & Entertainment
+
+
+
+
+
+          An Exquisite Experience
+
+
+          Dependable service is at the foundation of every great River View
+          Ranch event. Our dedicated and detail-oriented venue staff guarantee
+          the success of your special occasion by providing personalized
+          Musicians & Entertainment services that meet and exceed expectations.
+          River View Ranch elevates any event with a variety of Musicians &
+          Entertainment options to perfectly complement your celebration
+
+
       - content: |-
           #### Family Events
             - Vestibulum auctor dapibus neque.
