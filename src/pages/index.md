@@ -311,12 +311,19 @@ sections:
     features:
       - title: Learn about us
         subtitle: Authentic Ranch - Outdoor Nature - Indoor Charm
-        content: >+
+        content: >
           RiverView Ranch is set up on a thriving ranch that was also once a
           popular golf-driving range and gorgeous manicured 18 hole putting
           course. The beauty of nature can be seen from sunrise to sundown.
 
 
+
+
+          “Happiness, not in another place but this place, not for another hour
+          but this hour”
+
+
+          ## Walt Whitman
         image: images/riverview9.jpg
         image_alt: Brandon Guidelines Photo
         media_position: right
