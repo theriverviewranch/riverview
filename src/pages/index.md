@@ -137,7 +137,7 @@ sections:
       - image: images/riverview5.jpg
         image_alt: Logo 6
         image_align: center
-      - image: images/DSC07533 2 2.jpg
+      - image: images/DSC07533 2-43aaaf13.jpg
         image_alt: Logo 7
         image_align: center
     grid_cols: four
