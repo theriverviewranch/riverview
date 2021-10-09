@@ -186,12 +186,14 @@ sections:
           Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
           in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
           fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
-      - content: |-
+      - content: >+
           ### Parties
 
-          What you should be writing about, where it should be published, who
-          should read it, and what difference does it make. A comprehensive
-          guide to content marketing.
+
+          Birthdays, Anniversaries, Reunions, get-togethers, Showers; you come
+          up with it and we will be there for you.
+
+
       - content: >-
           ### Holiday Gatherings
 
