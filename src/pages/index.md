@@ -205,12 +205,19 @@ sections:
           beautiful property.
 
 
-      - content: |-
-          ### Custom
+      - content: >+
+          ### Family Events/ Reunions
 
-          There is no shortage of analytics tools for marketing campaigns —
-          email platforms, data centers, campaign dashboards and app
-          attribution... How to choose the right tools that will work for you.
+
+          Gather your family to explore the terrain, take in the views, enjoy
+          siting wildlife, walk the trails, ride your 4x4's, hike down to the
+          pond, make meals using the professional kitchen or have your meals
+          catered by us if you'd like!
+
+
+
+
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
