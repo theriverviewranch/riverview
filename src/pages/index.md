@@ -165,16 +165,7 @@ sections:
   - type: grid_section
     title: Riverview Ranch Events
     grid_items:
-      - content: >-
-          ### Weddings
-
-
-          Qui quis deserunt eu eiusmod ut non et nulla laboris ex consectetur
-          in. Ex exercitation consequat et reprehenderit elit eiusmod cupidatat
-          fugiat reprehenderit. Nisi proident sunt mollit labore et amet qui.
-          Esse ullamco do ad dolore in commodo in cillum cupidatat est Lorem
-          nostrud. Aliqua occaecat fugiat ipsum velit aliquip. Est duis
-          exercitation ad cillum commodo ut mollit anim eiusmod occaecat cillum.
+      - content: "### Weddings\n\nAt River View Ranch, we’ll make sure the vision for your special event becomes a reality and goes off without a glitch. Our Wedding Venue offers everything you need to create the stunning occasion you and your guests will always remember. We’ve been making your celebrations our business since newly 2021, and can’t\_wait to work with you.\n\n\n"
       - content: >-
           ### Work Meetings
 
