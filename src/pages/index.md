@@ -127,7 +127,7 @@ sections:
       - image: images/A76BA37D-FE49-49D7-B182-4F6BB810FA6C_1_100_o.jpeg
         image_alt: Logo 6
         image_align: center
-      - image: images/A76BA37D-FE49-49D7-B182-4F6BB810FA6C_1_100_o.jpeg
+      - image: images/EC9211CA-D90D-4BDC-A28F-1AD59B57306C_1_100_o.jpeg
         image_alt: Logo 7
         image_align: center
     grid_cols: four
