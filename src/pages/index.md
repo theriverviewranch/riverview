@@ -309,7 +309,7 @@ sections:
     background_image_opacity: 20
   - type: features_section
     features:
-      - title: What’s We Offer
+      - title: Learn about us
         subtitle: What we can do for you
         content: >-
           **Ut eu Lorem fugiat** Aliquip velit et do sunt enim Lorem nostrud
