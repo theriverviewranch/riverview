@@ -180,7 +180,7 @@ sections:
 
 
       - content: >
-          ### Retreats/ Work Meeting
+          ### Retreats
 
 
           Bring together your workforce, clients, employees, board members,
