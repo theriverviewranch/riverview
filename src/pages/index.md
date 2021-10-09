@@ -28,7 +28,10 @@ sections:
       can think to create.  Plenty of guest / RV parking plus 4000+ sq. ft. of
       ranch-style atmosphere awaits your unforgettable experience.  Have your
       meals catered or use our well-equipped professional kitchen to feed your
-      herd.  NOTE: Please yield to wildlife and livestock.
+      herd.  
+
+
+      NOTE: Please yield to wildlife and livestock.
     actions:
       - label: Book now
         url: /pricing
