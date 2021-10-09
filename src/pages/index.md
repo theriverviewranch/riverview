@@ -282,12 +282,21 @@ sections:
           Entertainment options to perfectly complement your celebration
 
 
-      - content: |-
-          #### Family Events
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
-            - Vivamus vestibulum ntulla nec ante.
+      - content: >
+          Wedding Planning
+
+
+
+
+
+          Exceeding Expectations
+
+
+          These services are a wonderful way to add a unique element to your
+          special event. Regardless of what your Wedding Planning needs are, we
+          guarantee that the River View Ranch team can manage every request to
+          your precise specifications. Our Wedding Planning services are ready
+          for your celebration so get the party started and contact us today.
       - content: |-
           #### Partiese
             - Aliquam tincidunt mauris eu risus.
