@@ -229,7 +229,6 @@ sections:
   - type: features_section
     features:
       - title: Riverview Ranch
-        subtitle: Becuase <3
         content: |-
           - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
           - Aliquam tincidunt mauris eu risus.
