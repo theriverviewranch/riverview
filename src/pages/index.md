@@ -252,16 +252,18 @@ sections:
   - type: grid_section
     title: What we offer.
     grid_items:
-      - content: |+
-          *   Catering
+      - content: >
+          Catering
 
 
-
-              Professional and Beautiful
-
-              River View Ranch is committed to excellence both as a stunning venue space and with the services we provide. Clients can choose from our popular Catering services, or customize their own. When you celebrate your special occasion with us, we’ll accommodate all of your Catering needs, with the entire River View Ranch team here to serve you.
+          Professional and Beautiful
 
 
+          River View Ranch is committed to excellence both as a stunning venue
+          space and with the services we provide. Clients can choose from our
+          popular Catering services, or customize their own. When you celebrate
+          your special occasion with us, we’ll accommodate all of your Catering
+          needs, with the entire River View Ranch team here to serve you.
       - content: |-
           #### Designers
             - Vestibulum auctor dapibus neque.
