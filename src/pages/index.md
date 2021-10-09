@@ -297,12 +297,7 @@ sections:
           guarantee that the River View Ranch team can manage every request to
           your precise specifications. Our Wedding Planning services are ready
           for your celebration so get the party started and contact us today.
-      - content: |-
-          #### Partiese
-            - Aliquam tincidunt mauris eu risus.
-            - Vestibulum auctor dapibus neque.
-            - Nunc dignissim risus id metus.
-            - Cras ornare tristique elit.
+      - content: "Event Planning\n\nAt River View Ranch, we’re in the business of hosting stunning weddings and special events. Since our opening in 2021,\_we’ve given our clients the power to customize every aspect of their event, from the decor and floral arrangements to the menu and entertainment. We’ll make sure the special day you’ve envisioned becomes a reality. Contact us to book your venue today. We can’t wait to host you.\n\n\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
